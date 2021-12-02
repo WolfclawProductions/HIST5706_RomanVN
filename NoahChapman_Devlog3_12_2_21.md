@@ -20,8 +20,8 @@ Backgrounds and character art will be rendered in Unreal engine, borrowing from 
 
 ### Environments
 At time of writing, the Pompeii street model has been deployed in Unreal, as well as topography of the Vesuvius area derived from a heightmap of the area. 
-![[Pompeii_Landscape.PNG]]
+!(Pompeii_Landscape.PNG)
 
 ### Characters
 I set aside the idea of making character assets and rigs by hand, and instead used the Metahumans character generator. The only thing I have to create is clothing. This way, the characters are fully rigged and ready to go, and come with their own face rigs and controls. This will make it easy to create Visual Novel expression sheets. 
-![[CharacterControl.PNG]]
+!(CharacterControl.PNG)
